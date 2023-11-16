@@ -157,3 +157,4 @@ def test_prediction(index, W1, b1, W2, b2):
 ![image](https://github.com/Shobika187/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/94508142/32df4bad-47af-47bd-ab21-3b9bc154ba34)
 
 ## Result:
+Thus The Implementation of Handwritten Digit Recognition using MLP Is Executed Successfully.
