@@ -133,9 +133,10 @@ def test_prediction(index, W1, b1, W2, b2):
 ### ITERATIONS FROM 460-490:
 ![image](https://github.com/Shobika187/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/94508142/fdd86522-1c8e-4142-a756-b6bcbfeed065)
 ### PREDICTING 5:
-![image](https://github.com/Shobika187/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/94508142/9411187c-ce1f-4876-94e2-701f6043e56f)
-![image](https://github.com/Shobika187/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/94508142/59a92e2f-9979-4c5b-be3a-764245840d8a)
+![image](https://github.com/Shobika187/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/94508142/57b44fd8-6998-40cd-b809-52740529b2c8)
 ### DEV_PREDICTIONS:
+![image](https://github.com/Shobika187/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/94508142/bb500347-05c9-4895-a973-4372de667201)
+
 
 ### ACCURACY:
 ![image](https://github.com/Shobika187/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/94508142/32df4bad-47af-47bd-ab21-3b9bc154ba34)
