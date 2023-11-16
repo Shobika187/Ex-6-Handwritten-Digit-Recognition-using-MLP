@@ -1,11 +1,10 @@
 # Skill Assisessment-Handwritten Digit Recognition using MLP
 ## Aim:
-       To Recognize the Handwritten Digits using Multilayer perceptron.
+To Recognize the Handwritten Digits using Multilayer perceptron.
 ##  EQUIPMENTS REQUIRED:
 Hardware – PCs
 Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
-## Theory:
-/*Describe here*/
+
 
 
 ## Algorithm :
@@ -124,16 +123,22 @@ def test_prediction(index, W1, b1, W2, b2):
 
 ### ITERATIONS FROM 1-100:
 ![image](https://github.com/Shobika187/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/94508142/0d0749c3-5ce8-49ba-8758-24823e220881)
+
 ### ITERATIONS FROM 110-230:
 ![image](https://github.com/Shobika187/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/94508142/44746bed-7083-420f-aead-b1b339767525)
+
 ### ITERATIONS FROM 240-340:
 ![image](https://github.com/Shobika187/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/94508142/043ed3b6-affe-44d3-bbdf-16a85e376f70)
+
 ### ITERATIONS FROM 350-450:
 ![image](https://github.com/Shobika187/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/94508142/8805fb81-49a2-4e48-9605-2d0767a716c9)
+
 ### ITERATIONS FROM 460-490:
 ![image](https://github.com/Shobika187/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/94508142/fdd86522-1c8e-4142-a756-b6bcbfeed065)
+
 ### PREDICTING 5:
 ![image](https://github.com/Shobika187/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/94508142/57b44fd8-6998-40cd-b809-52740529b2c8)
+
 ### DEV_PREDICTIONS:
 ![image](https://github.com/Shobika187/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/94508142/bb500347-05c9-4895-a973-4372de667201)
 
